@@ -100,7 +100,7 @@ export default function TaskForm({ onAdd, saving }) {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#FFFFFF',
+    backgroundColor: '#ffffff75',
     padding: 16,
     borderRadius: 14,
     marginBottom: 22,
