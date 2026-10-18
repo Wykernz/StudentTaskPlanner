@@ -369,7 +369,7 @@ const styles = StyleSheet.create({
   },
 
   activeSubject: {
-    backgroundColor: '#2563EB',
+    backgroundColor: '#bdc8e0',
   },
 
   subjectText: {
