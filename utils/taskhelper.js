@@ -15,7 +15,7 @@ export function sortTasks(tasks) {
 export function isOverdue(task) {
   // Completed tasks are not overdue.
   if (task.completed === 1) {
-    return false;
+    return true;
   }
 
   const today = new Date();
